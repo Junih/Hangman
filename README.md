@@ -1,2 +1,2 @@
 # Hangman
-Hangman mini game
+My second python program for learning purposes.
